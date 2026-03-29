@@ -215,8 +215,8 @@ function generatePreviewStats(player) {
 
 
 // Squad History Navigation
-let currentYear = 2024;
-const availableYears = [2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2018, 2019, 2020, 2021, 2022, 2023, 2024];
+let currentYear = 2025;
+const availableYears = [2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2018, 2019, 2020, 2021, 2022, 2023, 2024,2025];
 let currentYearIndex = availableYears.indexOf(currentYear);
 
 function renderSquadHistory() {
