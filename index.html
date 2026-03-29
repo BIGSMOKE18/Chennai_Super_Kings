@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chennai Super Kings - Whistle Podu!</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@300;400;500;600;700&family=Bebas+Neue&display=swap" rel="stylesheet">
+</head>
+<body>
+    <!-- Hero Section -->
+    <header class="hero">
+        <div class="hero-overlay"></div>
+        <nav class="navbar">
+            <div class="logo">
+                <div class="logo-container">
+                    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Chennai_Super_Kings_Logo.svg/1200px-Chennai_Super_Kings_Logo.svg.png" alt="CSK Logo" class="csk-logo">
+                </div>
+                <span class="team-name">Chennai Super Kings</span>
+            </div>
+            <ul class="nav-links">
+                <li><a href="#squad">Squad 2026</a></li>
+                <li><a href="#history">Squad History</a></li>
+                <li><a href="#records">All-Time Records</a></li>
+                <li><a href="#season-records">Season Records</a></li>
+                <li><a href="#trophies">Trophies</a></li>
+            </ul>
+        </nav>
+        <div class="hero-content">
+            <h1 class="hero-title">WHISTLE PODU</h1>
+            <p class="hero-subtitle">5-Time IPL Champions</p>
+            <div class="hero-stats">
+                <div class="stat">
+                    <span class="stat-number">5</span>
+                    <span class="stat-label">IPL Titles</span>
+                </div>
+                <div class="stat">
+                    <span class="stat-number">12</span>
+                    <span class="stat-label">Finals</span>
+                </div>
+                <div class="stat">
+                    <span class="stat-number">80%</span>
+                    <span class="stat-label">Playoff Rate</span>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- Current Squad Section -->
+    <section id="squad" class="current-squad">
+        <div class="container">
+            <h2 class="section-title">
+                <span class="title-line"></span>
+                CSK SQUAD 2026
+                <span class="title-line"></span>
+            </h2>
+            <div class="squad-grid" id="currentSquad"></div>
+        </div>
+    </section>
+
+    <!-- Squad History Section -->
+    <section id="history" class="squad-history">
+        <div class="container">
+            <h2 class="section-title">
+                <span class="title-line"></span>
+                SQUAD HISTORY
+                <span class="title-line"></span>
+            </h2>
+            <div class="year-selector">
+                <button class="year-nav prev" id="prevYear">←</button>
+                <div class="year-display" id="yearDisplay"></div>
+                <button class="year-nav next" id="nextYear">→</button>
+            </div>
+            <div class="history-squad-grid" id="historySquad"></div>
+        </div>
+    </section>
+
+    <!-- Records Section -->
+    <section id="records" class="records">
+        <div class="container">
+            <h2 class="section-title">
+                <span class="title-line"></span>
+                CSK LEGENDS - ALL TIME RECORDS
+                <span class="title-line"></span>
+            </h2>
+            
+            <div class="records-tabs">
+                <button class="record-tab active" data-tab="runs">Top Run Scorers</button>
+                <button class="record-tab" data-tab="wickets">Top Wicket Takers</button>
+                <button class="record-tab" data-tab="catches">Most Catches</button>
+                <button class="record-tab" data-tab="sixes">Most Sixes</button>
+            </div>
+
+            <div class="records-content">
+                <div class="record-table active" id="runs-table"></div>
+                <div class="record-table" id="wickets-table"></div>
+                <div class="record-table" id="catches-table"></div>
+                <div class="record-table" id="sixes-table"></div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Season Records Section -->
+    <section id="season-records" class="season-records">
+        <div class="container">
+            <h2 class="section-title">
+                <span class="title-line"></span>
+                SEASON BY SEASON RECORDS
+                <span class="title-line"></span>
+            </h2>
+            <div class="season-selector">
+                <button class="season-nav prev" id="prevSeason">←</button>
+                <div class="season-display" id="seasonDisplay"></div>
+                <button class="season-nav next" id="nextSeason">→</button>
+            </div>
+            <div class="season-records-content" id="seasonRecordsContent"></div>
+        </div>
+    </section>
+
+    <!-- Trophies Section -->
+    <section id="trophies" class="trophies">
+        <div class="container">
+            <h2 class="section-title">
+                <span class="title-line"></span>
+                GLORY YEARS
+                <span class="title-line"></span>
+            </h2>
+            <div class="trophies-grid" id="trophiesGrid"></div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="footer-content">
+            <div class="footer-logo">
+                <img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Chennai_Super_Kings_Logo.svg/1200px-Chennai_Super_Kings_Logo.svg.png" alt="CSK Logo" class="footer-csk-logo">
+            </div>
+            <p class="footer-text">Whistle Podu! | Chennai Super Kings</p>
+            <p class="footer-text">Created by Ayush Dhar</p>
+            <p class="footer-copyright">© 2026 Chennai Super Kings. All Rights Reserved.</p>
+        </div>
+    </footer>
+
+    <script src="data.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
