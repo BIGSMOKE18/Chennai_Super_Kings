@@ -690,6 +690,7 @@ const squadHistory = {
         { name: "Nathan Ellis" , role: "Bowler"},
         { name: "Shreyas Gopal" , role: "Bowler"},
         { name: "Devon Conway", role: "Batsman" }
+      ]  
 };
 
 // All-Time Records
