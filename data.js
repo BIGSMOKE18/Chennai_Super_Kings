@@ -670,7 +670,34 @@ const squadHistory = {
         { name: "Mustafizur Rahman", role: "Bowler" },
         { name: "Ajinkya Rahane", role: "Batsman" },
         { name: "Devon Conway", role: "Batsman" }
-    ] 
+    ],
+    2025: [
+      { name: "Ruturaj Gaikwad (C)", role: "Batsman" },
+      { name: "Ravindra Jadeja", role: "All-Rounder" },
+      { name: "Matheesha Pathirana", role: "Bowler" },
+      { name: "Shivam Dube", role: "All-Rounder" },
+      { name: "Noor Ahmad", role: "Bowler" },
+      { name: "Ravichandran Ashwin", role: "All-Rounder" },
+      { name: "Devon Conway", role: "Batsman" },
+      { name: "Khaleel Ahmed", role: "Bowler" },
+      { name: "MS Dhoni", role: "WK-Batsman" },
+      { name: "Rachin Ravindra", role: "All-Rounder" },
+      { name: "Rahul Tripathi", role: "Batsman" },
+      { name: "Anshul Kamboj", role: "All-Rounder" },
+      { name: "Sam Curran", role: "All-Rounder" },
+      { name: "Gurjapneet Singh", role: "Bowler" },
+      { name: "Nathan Ellis", role: "Bowler" },
+      { name: "Deepak Hooda", role: "All-Rounder" },
+      { name: "Jamie Overton", role: "All-Rounder" },
+      { name: "Vijay Shankar", role: "All-Rounder" },
+      { name: "Vansh Bedi", role: "WK-Batsman" },
+      { name: "Shaik Rasheed", role: "Batsman" },
+      { name: "Mukesh Choudhary", role: "Bowler" },
+      { name: "Kamlesh Nagarkoti", role: "Bowler" },
+      { name: "Ramakrishna Ghosh", role: "All-Rounder" },
+      { name: "Shreyas Gopal", role: "Bowler" },
+      { name: "Andre Siddarth", role: "Batsman" }
+]
 };
 
 // All-Time Records
