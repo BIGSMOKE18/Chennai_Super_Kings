@@ -790,8 +790,8 @@ const trophies = [
 const seasonRecords = {
     2008: {
         year: "IPL 2008",
-        position: "Semi-Finals",
-        topScorer: { name: "Suresh Raina", runs: 421, image: "https://www.iplt20.com/assets/images/team-players-images/16/43.png" },
+        position: "Runners-up",
+        topScorer: { name: "Suresh Raina", runs: 421, image: "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/316500/316523.3.png" },
         topWicketTaker: { name: "Muttiah Muralitharan", wickets: 11, image: "https://www.iplt20.com/assets/images/team-players-images/default-player-image.png" },
         matches: 16,
         won: 9,
@@ -809,7 +809,7 @@ const seasonRecords = {
     2010: {
         year: "IPL 2010",
         position: "Champions 🏆",
-        topScorer: { name: "Suresh Raina", runs: 520, image: "https://www.iplt20.com/assets/images/team-players-images/16/43.png" },
+        topScorer: { name: "Suresh Raina", runs: 520, image: "hhttps://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/316500/316523.3.png" },
         topWicketTaker: { name: "Doug Bollinger", wickets: 19, image: "https://www.iplt20.com/assets/images/team-players-images/default-player-image.png" },
         matches: 16,
         won: 9,
@@ -818,7 +818,7 @@ const seasonRecords = {
     2011: {
         year: "IPL 2011",
         position: "Champions 🏆",
-        topScorer: { name: "Suresh Raina", runs: 374, image: "https://www.iplt20.com/assets/images/team-players-images/16/43.png" },
+        topScorer: { name: "Suresh Raina", runs: 374, image: "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/316500/316523.3.png" },
         topWicketTaker: { name: "Ravichandran Ashwin", wickets: 20, image: "https://www.iplt20.com/assets/images/team-players-images/16/42.png" },
         matches: 16,
         won: 11,
@@ -827,7 +827,7 @@ const seasonRecords = {
     2012: {
         year: "IPL 2012",
         position: "Runners-up",
-        topScorer: { name: "Suresh Raina", runs: 441, image: "https://www.iplt20.com/assets/images/team-players-images/16/43.png" },
+        topScorer: { name: "Suresh Raina", runs: 441, image: "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/316500/316523.3.png" },
         topWicketTaker: { name: "Ravichandran Ashwin", wickets: 12, image: "https://www.iplt20.com/assets/images/team-players-images/16/42.png" },
         matches: 17,
         won: 10,
@@ -880,7 +880,7 @@ const seasonRecords = {
     },
     2020: {
         year: "IPL 2020",
-        position: "Runners-up",
+        position: "7th",
         topScorer: { name: "Faf du Plessis", runs: 449, image: "https://www.iplt20.com/assets/images/team-players-images/16/88.png" },
         topWicketTaker: { name: "Sam Curran", wickets: 13, image: "https://www.iplt20.com/assets/images/team-players-images/16/1048.png" },
         matches: 16,
@@ -898,7 +898,7 @@ const seasonRecords = {
     },
     2022: {
         year: "IPL 2022",
-        position: "Playoffs",
+        position: "9th",
         topScorer: { name: "Ruturaj Gaikwad", runs: 368, image: "https://gallery.chennaisuperkings.com/PROD/TEAM/Team4playerImgNoBg_1773207316332.png" },
         topWicketTaker: { name: "Maheesh Theekshana", wickets: 13, image: "https://www.iplt20.com/assets/images/team-players-images/default-player-image.png" },
         matches: 14,
@@ -916,7 +916,7 @@ const seasonRecords = {
     },
     2024: {
         year: "IPL 2024",
-        position: "Playoffs",
+        position: "10th",
         topScorer: { name: "Ruturaj Gaikwad", runs: 583, image: "https://gallery.chennaisuperkings.com/PROD/TEAM/Team4playerImgNoBg_1773207316332.png" },
         topWicketTaker: { name: "Matheesha Pathirana", wickets: 17, image: "https://www.iplt20.com/assets/images/team-players-images/16/1566.png" },
         matches: 14,
