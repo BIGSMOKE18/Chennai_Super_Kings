@@ -899,7 +899,7 @@ const seasonRecords = {
     2022: {
         year: "IPL 2022",
         position: "Playoffs",
-        topScorer: { name: "Ruturaj Gaikwad", runs: 368, image: "https://www.iplt20.com/assets/images/team-players-images/16/1123.png" },
+        topScorer: { name: "Ruturaj Gaikwad", runs: 368, image: "https://gallery.chennaisuperkings.com/PROD/TEAM/Team4playerImgNoBg_1773207316332.png" },
         topWicketTaker: { name: "Maheesh Theekshana", wickets: 13, image: "https://www.iplt20.com/assets/images/team-players-images/default-player-image.png" },
         matches: 14,
         won: 8,
@@ -917,7 +917,7 @@ const seasonRecords = {
     2024: {
         year: "IPL 2024",
         position: "Playoffs",
-        topScorer: { name: "Ruturaj Gaikwad", runs: 583, image: "https://www.iplt20.com/assets/images/team-players-images/16/1123.png" },
+        topScorer: { name: "Ruturaj Gaikwad", runs: 583, image: "https://gallery.chennaisuperkings.com/PROD/TEAM/Team4playerImgNoBg_1773207316332.png" },
         topWicketTaker: { name: "Matheesha Pathirana", wickets: 17, image: "https://www.iplt20.com/assets/images/team-players-images/16/1566.png" },
         matches: 14,
         won: 8,
