@@ -758,31 +758,50 @@ const trophies = [
         year: 2010,
         title: "IPL Champions 2010",
         details: "Defeated Mumbai Indians by 22 runs in the final. MS Dhoni's brilliant captaincy led CSK to their first IPL title.",
-        venue: "DY Patil Stadium, Mumbai"
+        venue: "DY Patil Stadium, Mumbai",
+        image: "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_960,q_50/lsci/db/PICTURES/CMS/116500/116505.jpg"
+    },
+    {
+        year: 2010,
+        title: "CLT20 Champions 2010",
+        details: "Defeated Warriors by 8 wickets in the final. A dominant performance under MS Dhoni helped CSK complete a historic IPL + CLT20 double.",
+        venue: "The Wanderers Stadium, Johannesburg",
+        image: "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_960,q_50/lsci/db/PICTURES/CMS/122300/122328.jpg"
     },
     {
         year: 2011,
         title: "IPL Champions 2011",
         details: "Beat Royal Challengers Bangalore by 58 runs. Murali Vijay scored 95 in the final to help CSK defend their title.",
-        venue: "MA Chidambaram Stadium, Chennai"
+        venue: "MA Chidambaram Stadium, Chennai",
+        image: "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202005/main-qimg-f9aca4c232aec9502db7.jpeg"
+    },
+    {
+        year: 2014,
+        title: "CLT20 Champions 2014",
+        details: "Defeated Kolkata Knight Riders by 8 wickets in the final. CSK dominated the tournament and lifted their second CLT20 title.",
+        venue: "M. Chinnaswamy Stadium, Bengaluru",
+        image: "https://pbs.twimg.com/media/BzIJ7EnCMAA8kfM.jpg:large"
     },
     {
         year: 2018,
         title: "IPL Champions 2018",
         details: "Defeated Sunrisers Hyderabad by 8 wickets. Shane Watson's unbeaten 117 powered CSK to victory in their comeback season.",
-        venue: "Wankhede Stadium, Mumbai"
+        venue: "Wankhede Stadium, Mumbai",
+        image: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2018/05/csk-win-last-1527445756.jpg"
     },
     {
         year: 2021,
         title: "IPL Champions 2021",
         details: "Beat Kolkata Knight Riders by 27 runs. Faf du Plessis (86) and Ruturaj Gaikwad (32) set up the win in UAE.",
-        venue: "Dubai International Stadium, UAE"
+        venue: "Dubai International Stadium, UAE",
+        image: "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/328700/328778.jpg"
     },
     {
         year: 2023,
         title: "IPL Champions 2023",
         details: "Defeated Gujarat Titans by 5 wickets. Ravindra Jadeja's all-round performance sealed CSK's 5th title.",
-        venue: "Narendra Modi Stadium, Ahmedabad"
+        venue: "Narendra Modi Stadium, Ahmedabad",
+        image: "./2023.jpg"
     }
 ];
 
