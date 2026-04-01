@@ -792,7 +792,7 @@ const seasonRecords = {
         year: "IPL 2008",
         position: "Runners-up",
         topScorer: { name: "Suresh Raina", runs: 421, image: "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/316500/316523.3.png" },
-        topWicketTaker: { name: "Muttiah Muralitharan", wickets: 11, image: "https://www.iplt20.com/assets/images/team-players-images/default-player-image.png" },
+        topWicketTaker: { name: "Albie Morkel", wickets: 17, image: "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/320300/320327.1.png" },
         matches: 16,
         won: 9,
         lost: 7
@@ -800,17 +800,17 @@ const seasonRecords = {
     2009: {
         year: "IPL 2009",
         position: "Semi-Finals",
-        topScorer: { name: "Matthew Hayden", runs: 572, image: "https://www.iplt20.com/assets/images/team-players-images/default-player-image.png" },
-        topWicketTaker: { name: "Lakshmipathy Balaji", wickets: 16, image: "https://www.iplt20.com/assets/images/team-players-images/default-player-image.png" },
-        matches: 14,
+        topScorer: { name: "Matthew Hayden", runs: 572, image: "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/319700/319706.1.png" },
+        topWicketTaker: { name: "Muttiah Muralitharan", wickets: 14, image: "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/319800/319880.1.png" },
+        matches: 15,
         won: 8,
         lost: 6
     },
     2010: {
         year: "IPL 2010",
         position: "Champions 🏆",
-        topScorer: { name: "Suresh Raina", runs: 520, image: "hhttps://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/316500/316523.3.png" },
-        topWicketTaker: { name: "Doug Bollinger", wickets: 19, image: "https://www.iplt20.com/assets/images/team-players-images/default-player-image.png" },
+        topScorer: { name: "Suresh Raina", runs: 520, image: "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/316500/316523.3.png" },
+        topWicketTaker: { name: "Muttiah Muralitharan", wickets: 15, image: "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/319800/319880.1.png" },
         matches: 16,
         won: 9,
         lost: 7
@@ -818,8 +818,8 @@ const seasonRecords = {
     2011: {
         year: "IPL 2011",
         position: "Champions 🏆",
-        topScorer: { name: "Suresh Raina", runs: 374, image: "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/316500/316523.3.png" },
-        topWicketTaker: { name: "Ravichandran Ashwin", wickets: 20, image: "https://www.iplt20.com/assets/images/team-players-images/16/42.png" },
+        topScorer: { name: "Michael Hussey", runs: 492, image: "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/319700/319708.1.png" },
+        topWicketTaker: { name: "Ravichandran Ashwin", wickets: 20, image: "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/393300/393315.2.png" },
         matches: 16,
         won: 11,
         lost: 5
@@ -828,100 +828,118 @@ const seasonRecords = {
         year: "IPL 2012",
         position: "Runners-up",
         topScorer: { name: "Suresh Raina", runs: 441, image: "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/316500/316523.3.png" },
-        topWicketTaker: { name: "Ravichandran Ashwin", wickets: 12, image: "https://www.iplt20.com/assets/images/team-players-images/16/42.png" },
-        matches: 17,
+        topWicketTaker: { name: "Ben Hilfenhaus", wickets: 14, image: "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/321500/321562.1.png" },
+        matches: 19,
         won: 10,
-        lost: 7
+        lost: 8
     },
     2013: {
         year: "IPL 2013",
         position: "Runners-up",
-        topScorer: { name: "Michael Hussey", runs: 733, image: "https://www.iplt20.com/assets/images/team-players-images/default-player-image.png" },
-        topWicketTaker: { name: "Ravichandran Ashwin", wickets: 18, image: "https://www.iplt20.com/assets/images/team-players-images/16/42.png" },
+        topScorer: { name: "Michael Hussey", runs: 733, image: "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/319700/319708.1.png" },
+        topWicketTaker: { name: "Dwayne Bravo", wickets: 32, image: "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/320000/320092.1.png" },
         matches: 18,
         won: 12,
         lost: 6
     },
     2014: {
         year: "IPL 2014",
-        position: "Playoffs",
-        topScorer: { name: "Brendon McCullum", runs: 389, image: "https://www.iplt20.com/assets/images/team-players-images/default-player-image.png" },
-        topWicketTaker: { name: "Mohit Sharma", wickets: 23, image: "https://www.iplt20.com/assets/images/team-players-images/default-player-image.png" },
-        matches: 14,
-        won: 7,
-        lost: 7
+        position: "Qualifiers-2",
+        topScorer: { name: "Dwayne Smith", runs: 566, image: "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/316500/316547.2.png" },
+        topWicketTaker: { name: "Mohit Sharma", wickets: 23, image: "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/316700/316702.2.png" },
+        matches: 16,
+        won: 10,
+        lost: 6
     },
     2015: {
         year: "IPL 2015",
         position: "Runners-up",
-        topScorer: { name: "Brendon McCullum", runs: 502, image: "https://www.iplt20.com/assets/images/team-players-images/default-player-image.png" },
-        topWicketTaker: { name: "Ravichandran Ashwin", wickets: 13, image: "https://www.iplt20.com/assets/images/team-players-images/16/42.png" },
-        matches: 16,
+        topScorer: { name: "Brendon McCullum", runs: 436, image: "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/316500/316509.1.png" },
+        topWicketTaker: { name: "Dwayne Bravo", wickets: 26, image: "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/320000/320092.1.png" },
+        matches: 17,
         won: 10,
-        lost: 6
+        lost: 7
     },
     2018: {
         year: "IPL 2018",
         position: "Champions 🏆",
-        topScorer: { name: "Ambati Rayudu", runs: 602, image: "https://www.iplt20.com/assets/images/team-players-images/16/29.png" },
-        topWicketTaker: { name: "Shardul Thakur", wickets: 16, image: "https://www.iplt20.com/assets/images/team-players-images/16/695.png" },
+        topScorer: { name: "Ambati Rayudu", runs: 602, image: "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/316400/316499.2.png" },
+        topWicketTaker: { name: "Shardul Thakur", wickets: 16, image: "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/322600/322696.1.png" },
         matches: 16,
-        won: 10,
-        lost: 6
+        won: 11,
+        lost: 5
     },
     2019: {
         year: "IPL 2019",
         position: "Runners-up",
-        topScorer: { name: "Faf du Plessis", runs: 396, image: "https://www.iplt20.com/assets/images/team-players-images/16/88.png" },
-        topWicketTaker: { name: "Imran Tahir", wickets: 26, image: "https://www.iplt20.com/assets/images/team-players-images/default-player-image.png" },
+        topScorer: { name: "MS Dhoni", runs: 416, image: "https://gallery.chennaisuperkings.com/PROD/TEAM/Team1playerImgNoBg_1773206232679.png" },
+        topWicketTaker: { name: "Imran Tahir", wickets: 26, image: "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/316500/316526.1.png" },
         matches: 17,
-        won: 9,
-        lost: 8
+        won: 10,
+        lost: 7
     },
     2020: {
         year: "IPL 2020",
         position: "7th",
-        topScorer: { name: "Faf du Plessis", runs: 449, image: "https://www.iplt20.com/assets/images/team-players-images/16/88.png" },
-        topWicketTaker: { name: "Sam Curran", wickets: 13, image: "https://www.iplt20.com/assets/images/team-players-images/16/1048.png" },
-        matches: 16,
-        won: 10,
-        lost: 6
+        topScorer: { name: "Faf du Plessis", runs: 449, image: "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/316500/316559.1.png" },
+        topWicketTaker: { name: "Sam Curran", wickets: 13, image: "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/383100/383153.1.png" },
+        matches: 14,
+        won: 6,
+        lost: 8
     },
     2021: {
         year: "IPL 2021",
         position: "Champions 🏆",
-        topScorer: { name: "Faf du Plessis", runs: 633, image: "https://www.iplt20.com/assets/images/team-players-images/16/88.png" },
-        topWicketTaker: { name: "Deepak Chahar", wickets: 14, image: "https://www.iplt20.com/assets/images/team-players-images/16/804.png" },
-        matches: 17,
+        topScorer: { name: "Ruturaj Gaikwad", runs: 635, image: "https://gallery.chennaisuperkings.com/PROD/TEAM/Team4playerImgNoBg_1773207316332.png" },
+        topWicketTaker: { name: "Shardul Thakur", wickets: 21, image: "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/322600/322696.1.png" },
+        matches: 16,
         won: 11,
-        lost: 6
+        lost: 5
     },
     2022: {
         year: "IPL 2022",
         position: "9th",
         topScorer: { name: "Ruturaj Gaikwad", runs: 368, image: "https://gallery.chennaisuperkings.com/PROD/TEAM/Team4playerImgNoBg_1773207316332.png" },
-        topWicketTaker: { name: "Maheesh Theekshana", wickets: 13, image: "https://www.iplt20.com/assets/images/team-players-images/default-player-image.png" },
+        topWicketTaker: { name: "Dwayne Bravo", wickets: 16, image: "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/320000/320092.1.png" },
         matches: 14,
-        won: 8,
-        lost: 6
+        won: 4,
+        lost: 10
     },
     2023: {
         year: "IPL 2023",
         position: "Champions 🏆",
-        topScorer: { name: "Devon Conway", runs: 672, image: "https://www.iplt20.com/assets/images/team-players-images/16/1444.png" },
-        topWicketTaker: { name: "Matheesha Pathirana", wickets: 27, image: "https://www.iplt20.com/assets/images/team-players-images/16/1566.png" },
-        matches: 17,
-        won: 12,
+        topScorer: { name: "Devon Conway", runs: 672, image: "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/383100/383148.1.png" },
+        topWicketTaker: { name: "Tushar Deshpande", wickets: 21, image: "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/398600/398605.png" },
+        matches: 16,
+        won: 10,
         lost: 5
     },
     2024: {
         year: "IPL 2024",
-        position: "10th",
+        position: "5th",
         topScorer: { name: "Ruturaj Gaikwad", runs: 583, image: "https://gallery.chennaisuperkings.com/PROD/TEAM/Team4playerImgNoBg_1773207316332.png" },
-        topWicketTaker: { name: "Matheesha Pathirana", wickets: 17, image: "https://www.iplt20.com/assets/images/team-players-images/16/1566.png" },
+        topWicketTaker: { name: "Tushar Deshpande", wickets: 17, image: "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/398600/398605.png" },
         matches: 14,
-        won: 8,
-        lost: 6
+        won: 7,
+        lost: 7
+    },
+    2025: {
+        year: "IPL 2025",
+        position: "10th",
+        topScorer: { name: "Shivam Dube", runs: 357, image: "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/383700/383773.1.png" },
+        topWicketTaker: { name: "Noor Ahmad", wickets: 24, image: "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/383200/383239.1.png" },
+        matches: 14,
+        won: 4,
+        lost: 10
+    },
+    2026: {
+        year: "IPL 2026",
+        position: "10th",
+        topScorer: { name: "Jamie Overton", runs: 43, image: "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/324200/324243.1.png" },
+        topWicketTaker: { name: "Anshul Kamboj", wickets: 2, image: "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/381300/381389.1.png" },
+        matches: 1,
+        won: 0,
+        lost: 1
     }
 };
 
