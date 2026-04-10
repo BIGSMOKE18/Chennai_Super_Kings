@@ -954,11 +954,11 @@ const seasonRecords = {
     2026: {
         year: "IPL 2026",
         position: "10th",
-        topScorer: { name: "Jamie Overton", runs: 43, image: "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/324200/324243.1.png" },
-        topWicketTaker: { name: "Anshul Kamboj", wickets: 2, image: "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/381300/381389.1.png" },
-        matches: 1,
+        topScorer: { name: "Sarfaraz Khan ", runs: 99, image: "https://gallery.chennaisuperkings.com/PROD/TEAM/Team58playerImgNoBg_1773379183176.png" },
+        topWicketTaker: { name: "Anshul Kamboj", wickets: 5, image: "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/381300/381389.1.png" },
+        matches: 3,
         won: 0,
-        lost: 1
+        lost: 3
     }
 };
 
