@@ -953,11 +953,11 @@ const seasonRecords = {
     },
     2026: {
         year: "IPL 2026",
-        position: "10th",
-        topScorer: { name: "Sarfaraz Khan ", runs: 99, image: "https://gallery.chennaisuperkings.com/PROD/TEAM/Team58playerImgNoBg_1773379183176.png" },
-        topWicketTaker: { name: "Anshul Kamboj", wickets: 5, image: "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/381300/381389.1.png" },
-        matches: 3,
-        won: 0,
+        position: "8th",
+        topScorer: { name: "Sanju Samson ", runs: 185, image: "https://gallery.chennaisuperkings.com/PROD/TEAM/Team50playerImgNoBg_1773207257969.png" },
+        topWicketTaker: { name: "Anshul Kamboj", wickets: 10, image: "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/381300/381389.1.png" },
+        matches: 5,
+        won: 2,
         lost: 3
     }
 };
