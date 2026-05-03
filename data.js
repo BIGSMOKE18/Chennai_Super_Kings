@@ -453,6 +453,16 @@ const playerStats = {
     fours: 0,
     highest: 3,
     role: "Bowler"
+},
+    "Kartik Sharma": {
+    matches: 6,
+    runs: 112,
+    average: 22.4,
+    strikeRate: 125.85,
+    sixes: 7,
+    fours: 7,
+    highest: 54,
+    role: "Wicket-Keeper batter"
 }
 };
 
