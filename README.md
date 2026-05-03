@@ -40,63 +40,6 @@ csk-website/
 └── README.md          # This file
 ```
 
-## 🚀 How to Run Locally
-
-### Method 1: Direct Opening (Simple)
-
-1. **Download all files** to a folder on your computer
-2. **Open `index.html`** directly in your web browser:
-   - Double-click the file, OR
-   - Right-click → "Open with" → Choose your browser (Chrome, Firefox, Safari, Edge)
-
-### Method 2: Using Live Server (Recommended for Development)
-
-1. **Install a code editor** like Visual Studio Code (https://code.visualstudio.com/)
-2. **Install the "Live Server" extension** in VS Code:
-   - Click Extensions icon (or press Ctrl+Shift+X)
-   - Search for "Live Server"
-   - Click Install
-3. **Open the project folder** in VS Code
-4. **Right-click on `index.html`** and select "Open with Live Server"
-5. The website will automatically open in your default browser
-
-### Method 3: Using Python HTTP Server
-
-If you have Python installed:
-
-```bash
-# Navigate to the project folder
-cd path/to/csk-website
-
-# For Python 3.x
-python -m http.server 8000
-
-# For Python 2.x
-python -m SimpleHTTPServer 8000
-```
-
-Then open `http://localhost:8000` in your browser.
-
-### Method 4: Using Node.js HTTP Server
-
-If you have Node.js installed:
-
-```bash
-# Install http-server globally (one-time)
-npm install -g http-server
-
-# Navigate to the project folder
-cd path/to/csk-website
-
-# Start the server
-http-server
-
-# Or specify a port
-http-server -p 8000
-```
-
-Then open the URL shown in the terminal (usually `http://localhost:8080`).
-
 ## 🎯 Navigation Guide
 
 ### Main Sections:
