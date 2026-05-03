@@ -161,7 +161,7 @@ const currentSquad = [
     },
     {
         name: "Zakary Foulkes",
-        role: "Bowler",
+        role: "All-Rounder",
         country: "New Zealand",
         category: "Bought",
         jersey: 14,
@@ -169,7 +169,7 @@ const currentSquad = [
     },
     {
         name: "Anshul Kamboj",
-        role: "Bowler",
+        role: "All-Rounder",
         country: "India",
         category: "Retained",
         jersey: 41,
@@ -177,7 +177,7 @@ const currentSquad = [
     },
     {
         name: "Kartik Sharma",
-        role: "Bowler",
+        role: "Wicket-Keeper Batter",
         country: "India",
         category: "Bought",
         jersey: 55,
@@ -185,7 +185,7 @@ const currentSquad = [
     },
     {
         name: "Prashant Veer",
-        role: "Bowler",
+        role: "All-Rounder",
         country: "India",
         category: "Bought",
         jersey: 63,
@@ -205,7 +205,15 @@ const currentSquad = [
         country: "Australia",
         category: "Inplace",
         jersey: 45,
-        image: "spencer.png"
+        image: "https://gallery.chennaisuperkings.com/PROD/TEAM/Team23playerImgNoBg_1774867441932.png"
+    },
+    {
+        name: "Akash Madhwal",
+        role: "Bowler",
+        country: "India",
+        category: "Inplace",
+        jersey: 45,
+        image: "https://gallery.chennaisuperkings.com/PROD/TEAM/Team61playerImgNoBg_1777025305226.png"
     }
 ];
 
